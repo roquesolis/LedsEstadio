@@ -4,5 +4,10 @@
     <string name="app_name">LedsEstadio</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="text_error">I can not access the camera.</string>
+    <string name="notification_text">I can not access the camera.</string>
+    <string name="btnEncender">Encender</string>
+    <string name="btnConectar">Conectar</string>
+    <string name="btnApagar">Apagar</string>
 
 </resources>
